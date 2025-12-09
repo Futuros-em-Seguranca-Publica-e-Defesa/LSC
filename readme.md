@@ -1,6 +1,8 @@
 # 🛡️ Think Tank de Futuros, Segurança Pública e Defesa  
 **Uma iniciativa de inteligência estratégica, prospectiva e análise de riscos aplicada ao contexto brasileiro.**
 
+Você pode acessar aqui: https://futuros-em-seguranca-publica-e-defesa.github.io/LSC/
+
 Este projeto é um MVP que reúne conteúdos conceituais, estruturais e visuais para explicar, de forma clara e acessível, três pilares fundamentais da atuação estratégica do Estado:
 
 - **Foresight (Inteligência de Futuros)**  
@@ -13,7 +15,7 @@ Todo o conteúdo está organizado em seções HTML estilizadas com **tema dark/n
 
 ## 📌 Objetivo do Projeto
 
-Criar uma página institucional simples, elegante e funcional — estilo página da Apple / think tank — que explique, de maneira estruturada:
+Criar uma página institucional simples, elegante e funcional, que explique de maneira estruturada:
 
 1. O que é **foresight** e como funciona a análise de futuros.  
 2. O que é **segurança pública**, seus componentes e seus desafios estruturais.  
@@ -32,14 +34,14 @@ O site é dividido em seções independentes, cada uma com seu próprio layout e
 - Métodos
 - Diferença entre previsão e prospectiva
 - Aplicação em segurança pública e defesa
-- Frase de impacto institucional
+
 
 ### 🔹 2. **Segurança Pública**
 - Conceito e abrangência
 - Pilares fundamentais
 - Desafios brasileiros
 - Relação com governança e políticas públicas
-- Finalização com referência ao conceito de **Cisne Negro** (Nassim Taleb)
+
 
 ### 🔹 3. **Defesa Nacional**
 - Conceito e missão
@@ -47,7 +49,7 @@ O site é dividido em seções independentes, cada uma com seu próprio layout e
 - Distinção clara entre defesa e segurança pública
 - Amazônia Azul e Atlântico Sul
 - Dissuasão e soberania
-- Frase institucional final
+
 
 ---
 
@@ -69,12 +71,10 @@ O design segue um padrão **dark mode institucional**, com as seguintes cores pr
 
 - **HTML5** (seções estruturadas)
 - **CSS3** (tema escuro customizado)
-- **JS opcional** (apenas se quiser adicionar interações)
+- **JS opcional** (para slider com entregáveis na home)
 - GitHub Pages (deploy estático e gratuito)
 
 Não há dependências externas obrigatórias — tudo foi pensado para ser **leve, limpo e 100% estático**, ideal para GitHub Pages.
 
----
 
-## 📂 Estrutura de Arquivos (sugerida)
 
