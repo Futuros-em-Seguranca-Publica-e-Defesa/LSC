@@ -1,9 +1,9 @@
 # 🛡️ Think Tank de Futuros, Segurança Pública e Defesa  
-**Uma iniciativa de inteligência estratégica, prospectiva e análise de riscos aplicada ao contexto brasileiro.**
+**Uma iniciativa de inteligência estratégica, prospectiva e análise de riscos aplicada ao contexto Brasileiro e Internacional.**
 
 Você pode acessar aqui: https://futuros-em-seguranca-publica-e-defesa.github.io/LSC/
 
-Este projeto é um MVP que reúne conteúdos conceituais, estruturais e visuais para explicar, de forma clara e acessível, três pilares fundamentais da atuação estratégica do Estado:
+Este projeto é um MVP que reúne conteúdos conceituais, estruturais e visuais para explicar, de forma clara e acessível, três pilares fundamentais da atuação:
 
 - **Foresight (Inteligência de Futuros)**  
 - **Segurança Pública (proteção da sociedade e da ordem interna)**  
@@ -71,7 +71,7 @@ O design segue um padrão **dark mode institucional**, com as seguintes cores pr
 
 - **HTML5** (seções estruturadas)
 - **CSS3** (tema escuro customizado)
-- **JS opcional** (para slider com entregáveis na home)
+- **JS** (para slider com entregáveis na home)
 - GitHub Pages (deploy estático e gratuito)
 
 Não há dependências externas obrigatórias — tudo foi pensado para ser **leve, limpo e 100% estático**, ideal para GitHub Pages.
