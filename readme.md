@@ -60,10 +60,10 @@ O design segue um padrão **dark mode institucional**, com as seguintes cores pr
 - `#000000` — Preto puro  
 - `#0A0A0A` — Fundo dark  
 - `#1A1A1A` — Cinza carvão  
-- `#EAEAEA` — Cinza claro para textos  
-- `#FFFFFF` — Branco para títulos  
+- `#EAEAEA` — Cinza claro
+- `#FFFFFF` — Branco  
 - `#0033A0` — Azul Royal (Marinha do Brasil)  
-- `#0055FF` — Azul vibrante para destaques  
+- `#0055FF` — Azul vibrante   
 
 ---
 
